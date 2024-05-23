@@ -15,7 +15,7 @@ options = UiAutomator2Options().load_capabilities({
     "deviceName" : "Google Pixel 3",
 
     # Set URL of the application under test
-    "app" : "bs://<app-id>",
+    "app" : "bs://2fb15308b1fc32e44481161bc168069ca16dc287",
 
     # Set other BrowserStack capabilities
     'bstack:options' : {
